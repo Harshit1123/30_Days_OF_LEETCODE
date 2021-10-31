@@ -1,4 +1,4 @@
-##💻 30_Days_OF_LEETCODE🏆🏅
+## 💻 30_Days_OF_LEETCODE🏆🏅
 
 This repository contains all the Competitive programming questions and Interview questions. The main aim of this repository is to help students who are preparing for the interview. This contains questions from popular coding platform <B>LEETCODE </B>
 
@@ -40,9 +40,9 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 
   ## Will slowly add as the no. of participants will increase.... 
 	
-## Contents
+## Index
 
 | Day | Question Name | Link | Python sol. | Cpp Sol. | Java Sol. |
-| --- | -------- ---- | ---- | ----------- | -------- | --------- |
+
 
 
