@@ -2,6 +2,9 @@
 
 This repository contains all the Competitive programming questions and Interview questions. The main aim of this repository is to help students who are preparing for the interview. This contains questions from popular coding platform <B>LEETCODE </B>
 
+This initiative is in collaboration with <b>Coding Valley</b> which is a active coding community on discord . 
+Link to join coding valley : https://discord.gg/tgxXx3v3Yg
+
  
 ## Benefits of doing this:--
 
@@ -45,9 +48,6 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 | Day | Question Name | Link | Python sol. | Cpp Sol. | Java Sol. |
 | --- | ------------- | ---- | ----------- | -------- | --------- |
 01| Surrounded Region | [Question link](https://leetcode.com/problems/surrounded-regions/)|
-
-
-## For more details and regular updates Plz zoin the server [Coding Valley](https://discord.gg/9ymkXHc4C5) on discord
 
 
 
