@@ -43,6 +43,7 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 ## Index
 
 | Day | Question Name | Link | Python sol. | Cpp Sol. | Java Sol. |
+01| Surrounded Region | [Question link](https://leetcode.com/problems/surrounded-regions/)|
 
 
 ## For more details and regular updates Plz zoin the server [Coding Valley](https://discord.gg/9ymkXHc4C5) on discord
