@@ -45,4 +45,7 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 | Day | Question Name | Link | Python sol. | Cpp Sol. | Java Sol. |
 
 
+## For more details and regular updates Plz zoin the server [Coding Valley](https://discord.gg/9ymkXHc4C5) on discord
+
+
 
