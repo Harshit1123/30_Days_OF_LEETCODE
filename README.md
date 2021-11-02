@@ -3,7 +3,7 @@
 This repository contains all the Competitive programming questions and Interview questions. The main aim of this repository is to help students who are preparing for the interview. This contains questions from popular coding platform <B>LEETCODE </B>
 
 This initiative is in collaboration with <b>Coding Valley</b> which is a active coding community on discord . 
-Link to join coding valley : https://discord.gg/tgxXx3v3Yg
+Click [Link]( https://discord.gg/tgxXx3v3Yg) to join coding valley.
 
  
 ## Benefits of doing this:--
@@ -11,26 +11,51 @@ Link to join coding valley : https://discord.gg/tgxXx3v3Yg
 1. Leetcode Badge
 2. 30-days Practicing streak
 3. Leetcode Coins
+4. Can compare solutions with others
+5. Alone is boring sometimes....
 
 ## Contributing
 
-**1.**  Fork [Link to repositry](https://github.com/Harshit1123/30_Days_OF_LEETCODE).
+**1.**  Fork [this](https://github.com/Harshit1123/30_Days_OF_LEETCODE) repositry.
 
-**2.** Navigate to the index page under my repo and you will find the link of the question.
+**2.** Navigate to the index page in this repo under readme section and you will find the link of the question.
 
-**3.** After solving the question on leetcode and successfull submission u can create a folder named similar as your name in the particular day folder.
+**3.** After solving the question on leetcode and successfull submission click on <B> ADD FILE -> CREATE NEW FILE -> TYPE YOUR DAY -> YOUR NAME -> QUESTION NAME </B>followed by <B>language extension </B>.
 
-**4.** Then under your name folder paste the solution you solved and the extension of the language.
+**4.** Commit your changes.
 
-**5.** Commit your changes.
+**5.** To create a pull request, click on `contribute`. Please ensure you compare your feature branch to the desired branch of the repository you are supposed to make a PR to.
 
-**6.** To create a pull request, click on `compare and pull requests`. Please ensure you compare your feature branch to the desired branch of the repository you are supposed to make a PR to.
+**6.** Create a pull request naming solved today's (Question name) question.
 
-**7.** Create a pull request naming solved today's (Question name) question.
+**7.** Click on `Create Pull Request`.
 
-**8.** Click on `Create Pull Request`.
+**8.**  Voila! You have made a PR and till then Sit back patiently and relax while your PR is being merged. 
 
-**9.** Voila! You have made a PR and till then Sit back patiently and relax while your PR is being merged. 
+**9.**	## File Structure
+```
+├── DAY_01
+│   ├── someotherusername
+│   │     └── solution.cpp
+│   ├── yourusername
+│   │     └── solution.cpp
+│   ├── someotherusername
+│         └── solution.java
+├── DAY_02
+│   ├── someotherusername
+│   │     └── solution.cpp
+|    .....
+.    .
+.    .
+.    .
+.    .
+.    .....
+├── DAY_30
+│   ├── someotherusername
+│         └── solution.cpp
+|
+└── README.md
+```
 
  In case of any help, please free to contact me via mail @ harshit2neeraj@gmail.com
  
@@ -53,9 +78,12 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 	
 ## Index
 
-| Day | Question Name | Link | Python sol. | Cpp Sol. | Java Sol. |
-| --- | ------------- | ---- | ----------- | -------- | --------- |
-01| Surrounded Region | [Question link](https://leetcode.com/problems/surrounded-regions/)|
+| Day | Question Name | Link | Cpp Sol. | Java Sol. |
+| --- | ------------- | ---- | -------- | --------- |
+01| Surrounded Region | [Question link](https://leetcode.com/problems/surrounded-regions/)| [Solution by Prakahar](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_01/PRAKHAR/sol.cpp)| [Solution by Peeyush](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_01/Peeyush_Varyani/Surrounded_Region.java)
+02| Unique Paths III  |	[Question link](https://leetcode.com/problems/unique-paths-iii/)| [Solution by Devraj]
+
+## Solutions will be updated to this repo on next day to avoid "PLAG" and all are requested to not copy others Solution.
 
 
 
