@@ -32,7 +32,7 @@ Click [Link]( https://discord.gg/tgxXx3v3Yg) to join coding valley.
 
 **8.**  Voila! You have made a PR and till then Sit back patiently and relax while your PR is being merged. 
 
-**9.**	## File Structure
+## File Structure
 ```
 ├── DAY_01
 │   ├── someotherusername
