@@ -82,7 +82,7 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 | --- | ------------- | ---- | -------- | --------- |
 01| Surrounded Region | [Question link](https://leetcode.com/problems/surrounded-regions/)| [Solution by Prakahar](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_01/PRAKHAR/sol.cpp)| [Solution by Peeyush](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_01/Peeyush_Varyani/Surrounded_Region.java)
 02| Unique Paths III  |	[Question link](https://leetcode.com/problems/unique-paths-iii/)| [Solution by Devraj](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_02/Devraj/unique_path_III.cpp)| NIL |
-03| Unique Paths III  |	[Question link](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Solution by Harshit](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_03/Harshit/Sol.cpp)| NIL |
+03| Sum Root to Leaf Numbers  |	[Question link](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Solution by Harshit](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_03/Harshit/Sol.cpp)| NIL |
 04|
 ## Solutions will be updated to this repo on next day to avoid "PLAG" and all are requested to not copy others Solution.
 
