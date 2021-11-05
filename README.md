@@ -78,12 +78,14 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 	
 ## Index
 
-| Day | Question Name | Link | Cpp Sol. | Java Sol. |
-| --- | ------------- | ---- | -------- | --------- |
-01| Surrounded Region | [Question link](https://leetcode.com/problems/surrounded-regions/)| [Solution by Prakahar](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_01/PRAKHAR/sol.cpp)| [Solution by Peeyush](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_01/Peeyush_Varyani/Surrounded_Region.java)
-02| Unique Paths III  |	[Question link](https://leetcode.com/problems/unique-paths-iii/)| [Solution by Devraj](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_02/Devraj/unique_path_III.cpp)| NIL |
-03| Sum Root to Leaf Numbers  |	[Question link](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Solution by Harshit](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_03/Harshit/Sol.cpp)| NIL |
-04|
+| Day | Question Name | Link | Cpp Sol. | 
+| --- | ------------- | ---- | -------- |
+01| Surrounded Region | [Question link](https://leetcode.com/problems/surrounded-regions/)| [Solution by Prakahar](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_01/PRAKHAR/sol.cpp)| 
+02| Unique Paths III  |	[Question link](https://leetcode.com/problems/unique-paths-iii/)| [Solution by Devraj](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_02/Devraj/unique_path_III.cpp)| 
+03| Sum Root to Leaf Numbers  |	[Question link](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Solution by Devraj](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_03/Devraj/Sum_Root_To_Leaf_Numbers.cpp)|
+04|[Sum of Left Leaves] | [Question Link](https://leetcode.com/problems/sum-of-left-leaves/)| [Solution by Prakhar](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_04/PRAKHAR/sol.cpp)| 
+05|[Arranging Coins] | [Question Link](https://leetcode.com/problems/arranging-coins/)| [Solution by Harshit](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_05/Harshit/Soln.cpp)| 
+06|
 ## Solutions will be updated to this repo on next day to avoid "PLAG" and all are requested to not copy others Solution.
 
 
