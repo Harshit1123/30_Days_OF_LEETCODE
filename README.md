@@ -85,10 +85,8 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 03| Sum Root to Leaf Numbers  |	[Question link](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Solution by Devraj](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_03/Devraj/Sum_Root_To_Leaf_Numbers.cpp)|
 04|Sum of Left Leaves | [Question Link](https://leetcode.com/problems/sum-of-left-leaves/)| [Solution by Prakhar](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_04/PRAKHAR/sol.cpp)| 
 05|Arranging Coins | [Question Link](https://leetcode.com/problems/arranging-coins/)| [Solution by Harshit](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_05/Harshit/Soln.cpp)| 
-06|Single Number III |[Question Link](https://leetcode.com/problems/single-number-iii/)|
-[Solution by Devraj](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_06/Devraj/Single_Number_III.cpp) |
-07|Multiply Strings |[Question Link](https://leetcode.com/problems/multiply-strings/)|
-[Solution by Creativeyashi](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/Day_07/creativeyashi/Multiply_Strings.cpp) |
+06|Single Number III |[Question Link](https://leetcode.com/problems/single-number-iii/)|[Solution by Devraj](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_06/Devraj/Single_Number_III.cpp) |
+07|Multiply Strings |[Question Link](https://leetcode.com/problems/multiply-strings/)|[Solution by Creativeyashi](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/Day_07/creativeyashi/Multiply_Strings.cpp) |
 08| Unique Binary Search Trees |[Question Link](https://leetcode.com/problems/unique-binary-search-trees/)|[Solution by Harshit] |
 09|
 
