@@ -90,8 +90,8 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 08|Unique Binary Search Trees |[Question Link](https://leetcode.com/problems/unique-binary-search-trees/)|[Solution by Harshit](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_08/Harshit/UBST_sol.cpp)|
 09|Number-of-valid-words-for-each-puzzle |[Question Link](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)|[Solution by Devraj](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_09/Devraj/Number_of_valid_word_for_each_puzzle.cpp)|
 10|Best Time to Buy and Sell Stock II|[Question Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Solution by Harshit](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_10/Harshit/soln.cpp)|
-11|
-
+11|Minimum Value to Get Positive Step by Step Sum|[Question Link](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[Solution by Harshit](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/Day_11/Harshit/soln.cpp)|
+12|
 ## Solutions will be updated to this repo on next day to avoid "PLAG" and all are requested to not copy others Solution.
 
 
