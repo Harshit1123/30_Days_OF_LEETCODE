@@ -92,7 +92,10 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 10|Best Time to Buy and Sell Stock II|[Question Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Solution by Harshit](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_10/Harshit/soln.cpp)|
 11|Minimum Value to Get Positive Step by Step Sum|[Question Link](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[Solution by Harshit](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/Day_11/Harshit/soln.cpp)|
 12|Remove Linked List Elements|[Question Link](https://leetcode.com/problems/remove-linked-list-elements/)|[Solution by Akash](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_12/Akash/Remove_Linked_List_Elements.cpp)|
-13|Daily Temperatures|[Question Link](https://leetcode.com/problems/daily-temperatures/)|
+13|Daily Temperatures|[Question Link](https://leetcode.com/problems/daily-temperatures/)|[Solution by Akash](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_13/Akash/2_Daily_Temperatures_(using%20BruteForce%20TLE).cpp.txt)
+14| Iterator for Combination|[Question Link](https://leetcode.com/problems/iterator-for-combination/)|[Solution by Devraj](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_14/Devraj/Iterator_for_combination.cpp)
+15|Largest Divisible Subset|[Question Link](https://leetcode.com/problems/largest-divisible-subset/)|[Solution by Devraj](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_15/Devraj/Largest_Divisible_subset.cpp)
+16|
 
 ## Solutions will be updated to this repo on next day to avoid "PLAG" and all are requested to not copy others Solution.
 
