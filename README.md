@@ -95,7 +95,8 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 13|Daily Temperatures|[Question Link](https://leetcode.com/problems/daily-temperatures/)|[Solution by Akash](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_13/Akash/2_Daily_Temperatures_(using%20BruteForce%20TLE).cpp.txt)
 14| Iterator for Combination|[Question Link](https://leetcode.com/problems/iterator-for-combination/)|[Solution by Devraj](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_14/Devraj/Iterator_for_combination.cpp)
 15|Largest Divisible Subset|[Question Link](https://leetcode.com/problems/largest-divisible-subset/)|[Solution by Devraj](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_15/Devraj/Largest_Divisible_subset.cpp)
-16|
+16|Kth Smallest Number in Multiplication Table|[Question Link](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|[Solution by Devraj](https://github.com/Harshit1123/30_Days_OF_LEETCODE/blob/main/DAY_16/Devraj/Kth_smallest_no_in_multilication_table.cpp)
+17|Unique Paths|[Question Link](https://leetcode.com/problems/unique-paths/)|
 
 ## Solutions will be updated to this repo on next day to avoid "PLAG" and all are requested to not copy others Solution.
 
