@@ -1,5 +1,6 @@
 class Solution {
-    public int arrangeCoins(int n) {
+    public:
+    int arrangeCoins(int n) {
      
         int i=0;
         while(n>=i){
@@ -8,4 +9,4 @@ class Solution {
         }
         return i-1;
     }
-}
+};
