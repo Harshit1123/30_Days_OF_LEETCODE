@@ -4,12 +4,12 @@ public:
         int lo=0, hi=m*n;
         while (lo < hi) {
             int mid=(lo+hi)/2, count=0;
-            // check how many numbers are smaller than mid
+            
             for (int i=1; i<=m; i++)
                 count += n < mid/i ? n : mid/i;
-            if (count >= k)  // target <= mid
+            if (count >= k)  
                 hi = mid;
-            else  // target > mid
+            else  
                 lo = mid+1;
         }
         return lo;
